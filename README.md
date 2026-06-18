@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition using CNN
 
-## Project Overview
+## Project Overview-
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify handwritten digits from the MNIST dataset.
 
