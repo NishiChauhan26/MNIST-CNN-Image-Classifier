@@ -36,7 +36,7 @@ Testing Images: 10,000
 
 ### Dataset Sample
 
-![Sample Digits](images/sample_digits.png)
+![Sample Digits](sample_digits.png)
 
 
 ## Data Preprocessing
@@ -66,7 +66,7 @@ Dense (10 Softmax)
 
 ### Model Architecture
 
-![CNN Architecture](images/cnn_architecture.png)
+![CNN Architecture](cnn_architecture.png)
 
 
 ## Model Training
@@ -76,24 +76,20 @@ Dense (10 Softmax)
 - Epochs: 5
 - Batch Size: 64
 
-### Training Process
-
-![Training Process](images/training_process.png)
-
 
 ## Accuracy Graph
 
-![Accuracy Graph](images/accuracy_graph.png)
+![Accuracy Graph](accuracy_graph.png)
 
 
 ## Loss Graph
 
-![Loss Graph](images/loss_graph.png)
+![Loss Graph](loss_graph.png)
 
 
 ## Prediction Example
 
-![Prediction Output](images/prediction_output.png)
+![Prediction Output](prediction_output.png)
 
 
 ## Results
