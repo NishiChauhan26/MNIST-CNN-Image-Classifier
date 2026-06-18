@@ -76,6 +76,9 @@ Dense (10 Softmax)
 - Epochs: 5
 - Batch Size: 64
 
+### Training Process
+
+![Training Process](training_process.png)
 
 ## Accuracy Graph
 
