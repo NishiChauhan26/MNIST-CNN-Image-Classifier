@@ -27,6 +27,20 @@ Dataset loaded directly from TensorFlow.
 - Matplotlib
 - Scikit-Learn
 
+## How to Run
+
+1. Clone the repository
+
+git clone <repo-url>
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the notebook
+
+jupyter notebook mnist_cnn.ipynb
+
 
 ## Data Loading
 
@@ -110,6 +124,13 @@ Dense (10 Softmax)
 - Image Classification
 - TensorFlow & Keras
 - Model Evaluation
+
+## Future Improvements
+
+- Data Augmentation
+- Hyperparameter Tuning
+- Deploy using Streamlit
+- Support custom handwritten digit images
 
 
 ## Author
